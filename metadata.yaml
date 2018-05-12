@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33324'
     url: http://www.gutenberg.org/2009/agents/33324
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28416#Days-of-Heaven-Upon-Earth
 gutenberg_issued: '2009-03-27'
 gutenberg_type: Text
 identifiers:
